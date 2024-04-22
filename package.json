@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@sparrowengg/appnest-templates-frontend": "^1.0.9",
+    "@sparrowengg/twigs-react": "^0.21.0",
+    "@sparrowengg/twigs-react-icons": "^0.3.3",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
